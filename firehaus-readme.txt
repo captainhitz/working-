@@ -1,1 +1,1 @@
-This will be the readme file for the new Fire Haus Records site.
+This will be the readme file for the new Fire Haus Records site. This file will outline the basic goals for the firehaus records site as well as functionality and target groups.
